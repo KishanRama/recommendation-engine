@@ -9,7 +9,7 @@ import sys
 import numpy as np
 
 
-
+#preprocessing data - encoding the sequences that are going to be aligned
 def preprocessing(N):
 
     dicio = {}
